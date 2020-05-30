@@ -1,0 +1,11 @@
+
+.Centered{
+    margin: 10px 10px;
+    border : 1px solid #eee;
+    color:#2050b0;
+    padding: 25px;
+}
+
+.Centered:hover{
+    box-shadow: 7px 7px rgba(207, 196, 196, 0.1) ;
+}

@@ -1,0 +1,26 @@
+
+
+.App-header {
+  background-color: #2050b0;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 10px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.btn-submit{
+  width: 130px;
+  height: 50px;
+  background: #2050b0;
+  color:white;
+  margin:10px 210px;
+  border :0px
+}
+.btn-submit:hover{
+  background-color: white;
+  color: #2050b0;
+  border:2px solid #2050b0
+}

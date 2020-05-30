@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the capital of India ??",
+      "option": ["Delhi", "Maharashtra", "Tamil Nadu", "Bihar"],
+      "category": "state"
+    },
+    {
+      "id": "2",
+      "question": "What is the national bird ?",
+      "option": ["Peacock", "Ostrich", "Pigeon", "Bird"],
+      "category": "bird"
+    },
+    {
+      "id": "3",
+      "question": "What is the national fruit ?",
+      "option": ["Mango", "Apple", "Orange", "Banana"],
+      "category": "fruit"
+    },
+    {
+      "id": "4",
+      "question": "What is the national animal ?",
+      "option": ["Dog", "Cat", "Tiger", "Lion"],
+      "category": "animal"
+    },
+    {
+      "id": "5",
+      "question": "Which city is called as pink city ?",
+      "option": ["Delhi", "Jaipur", "Haryana", "Bihar"],
+      "category": "pink"
+    },
+    {
+      "id": "6",
+      "question": "Which city is called Dillwalo ki ?",
+      "option": ["Delhi", "Maharashtra", "Tamil Nadu", "Bihar"],
+      "category": "Dillwalo"
+    }
+  ]
+}
