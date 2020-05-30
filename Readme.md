@@ -24,6 +24,10 @@ Go to Directory "React Assignment Flexsin/quiz-competion/
 open terminal and go to the above directory and run 
 
 ```
+npm i
+```
+It will install all dependcies and then run
+```
 npm start 
 ```
 
@@ -34,6 +38,10 @@ Go to Directory "React Assignment Flexsin/backend/
 ```
 open terminal and go to the above directory and run 
 
+```
+npm i
+```
+it will install all dependecies and then run
 ```
 npm start 
 ```
@@ -56,6 +64,7 @@ http://localhost:8080/quiz/answers
 ```
 with following JSON DATA(This json data represent id corresponding to its answer.)
 
+This is unit testing
 Test 1
 ```
 {
@@ -81,6 +90,12 @@ Pass the json data with answers but with not all answers
 ```
 This will show me number of right ans,wrong ans and question which are not answered will be returned as notAnswered Questions
 
+End To End Testing through GUI,hit url
+
+```
+http://localhost:3000/
+```
+Fill all the answers or partial, it will give nice coressponding result.
 
 ## Authors
 
